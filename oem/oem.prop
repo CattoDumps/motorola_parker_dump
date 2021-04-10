@@ -1,0 +1,12 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=d623
+ro.build.version.ci=10
+ro.mot.build.guid=d2fc31cc3c93380
+ro.product.name=parker
+ro.product.system.name=parker
+ro.product.product.name=parker
+ro.mot.build.oem.product=parker
+ro.mot.build.customerid=retail
+ro.product.device=parker
