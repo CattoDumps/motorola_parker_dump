@@ -1,0 +1,7 @@
+# Copyright (c) 2021, Motorola Mobility LLC, All Rights Reserved.
+#
+# Motorola Dogfooding Init Script
+
+# Force ro.adb.secure on Dogfooding units
+on property:persist.mot.dogfooding=true
+    setprop ro.adb.secure 1
